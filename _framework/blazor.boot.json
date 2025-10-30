@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BitsAlot",
   "resources": {
-    "hash": "sha256-mnJNnGpcCYtK1lY6t+ZVSqOyKivic2Sg5kFdy29hZ/c=",
+    "hash": "sha256-uqVifj+xXWZrEMH4e+fD9sYfb2BdVBnC+ozVDeqKyyE=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.dgt7r03y5c.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.ldwpbvn8hd.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -61,7 +61,7 @@
       "System.Xml.XDocument.rwln4b79v2.wasm": "System.Xml.XDocument.wasm",
       "System.ezrw3d5kw2.wasm": "System.wasm",
       "System.Private.CoreLib.8g9o2th51u.wasm": "System.Private.CoreLib.wasm",
-      "BitsAlot.id9opf7fz9.wasm": "BitsAlot.wasm",
+      "BitsAlot.uu9bfhdrzz.wasm": "BitsAlot.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.uhsveqo9bs.js": "dotnet.native.js",
       "dotnet.native.swgexbmoy7.wasm": "dotnet.native.wasm",
@@ -145,7 +145,7 @@
       "System.Xml.Linq.9s8atxe8u2.wasm": "sha256-B3Sn5WuDQKyX1cBKZwM/t4NNOIT2E8PtPWVPp/EINqE=",
       "System.Xml.XDocument.rwln4b79v2.wasm": "sha256-VfFCgADjK8j9zC8VKvIKPX4/bVw3cC9TXWeascFCr6k=",
       "System.ezrw3d5kw2.wasm": "sha256-ViNRvhyxlTugIlqJHamw/HwbXlg/YWcrANmxuTM0tfg=",
-      "BitsAlot.id9opf7fz9.wasm": "sha256-dsr3+3CqArAqUN+XFqDbFByhN8ytD81es6ZOGoexMOQ="
+      "BitsAlot.uu9bfhdrzz.wasm": "sha256-punAT85eeUZIVirA/eS0lPRkcxTe23PHSSJYmrkvm6E="
     }
   },
   "cacheBootResources": true,
